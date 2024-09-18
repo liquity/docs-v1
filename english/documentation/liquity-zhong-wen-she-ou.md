@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Liquity 中文社區
 
 ### 欢迎订阅Liquity官方中文社区微信公众号
