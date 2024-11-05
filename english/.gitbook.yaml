@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  liquity-v2: SUMMARY.md
+  liquity-v2: README.md
