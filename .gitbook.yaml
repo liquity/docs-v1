@@ -1,0 +1,4 @@
+root: ./
+
+redirects:
+  liquity-v2: SUMMARY.md
